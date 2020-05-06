@@ -13,11 +13,18 @@ Open [https://chakra-ui.com/](https://chakra-ui.com/).
 
 I just like its simplicity. Also big focus on accessibility [https://reach.tech/router](https://reach.tech/router).
 
+
+### Icons
+
+React-icons has Everything I need so far 
+
+[https://react-icons.netlify.com/#/](https://react-icons.netlify.com/#/).
+
 ### Logo
 
 Always good to spinup a nice looking yet cheap logo here
 
-[https://www.namecheap.com/logo-maker/app/]https://www.namecheap.com/logo-maker/app/).
+[https://www.namecheap.com/logo-maker/app/](https://www.namecheap.com/logo-maker/app/).
 
 ### Font
 ```
