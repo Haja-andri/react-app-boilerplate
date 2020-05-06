@@ -12,17 +12,17 @@ function LandingPage() {
               <Heading
                 color="primary.500"
                 as="h1"
-                size="2xl"
+                fontSize={["4xl","6xl","6xl","6xl"]}
                 fontWeight="bolder"
               >
                 Catchy one liner
               </Heading>
-              <Text fontSize="lg" color="primary.400">
+              <Text textTransform="uppercase" fontSize="lg" color="primary.400">
                 Quick awsome, yet very consize description
               </Text>
             </Box>
             <Box>
-              <Button size="lg" variantColor="success">
+              <Button borderRadius="50px" size="lg" variantColor="success">
                 Click me for some magic
               </Button>
             </Box>

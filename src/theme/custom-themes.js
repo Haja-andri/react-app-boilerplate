@@ -93,7 +93,7 @@ const customTheme = {
   },
   fonts: {
     body: "system-ui, sans-serif",
-    heading: "Montserrat, sans-serif",
+    heading: "montserrat, sans-serif",
     mono: "Menlo, monospace",
   },
   fontWeights: {
